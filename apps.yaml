@@ -446,6 +446,6 @@ NanoBattVR:
         state: development
         version: '1.0'
     categories:
-        - Virtual Reality
-        - NEB
-        - Quantum
+        - virtual-reality
+        - neb
+        - quantum
